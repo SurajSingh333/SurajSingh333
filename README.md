@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SurajSingh333
 - 👀 I have a great interest in Data Analytics Tools
-- 🌱 I’m currently learning Tableau
+- 🌱 Hands on: Power bi, SQL, Tableau, ADF, Sharepoint, Power Automate++
 - 💞️ I’m looking to collaborate on Data Analytics Projects
 - 📫 How to reach me ... https://www.linkedin.com/in/suraj-singh-344825208/
 
